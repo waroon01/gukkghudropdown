@@ -1,8 +1,6 @@
 class DropDown {
 
-    constructor(data){
-        this.data = data;
-        this.targets = []
+    constructor(data){this.data = data; this.targets = []
     }
 
     filterData(filtersAsArray){
