@@ -1,12 +1,12 @@
 /*!
  * Dropdown list by WaroonRat Thailand v1.0.0: credit 
- * (c) 2022 gukkghu
+ * (c) 2022 gukkghu Mr Waroonporn Rattanbutchai
  * 
  * 
  */
 
 
-class DropDown {
+class GukkghuDropDownByWaroonRat {
 
     constructor(data){this.data = data; this.targets = []
     }
